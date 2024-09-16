@@ -1,10 +1,9 @@
 .number 
     {
-        background-color: rgb(255, 192, 203);
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: pink;
     }
 
-#n02
+ #n02
     {
         font-size: 36px;
         color: #0000ff;
@@ -15,7 +14,7 @@
         font-size: 24px;
     }
 
-#n04s
+#n04
     {
         background-color: rgb(24, 165, 5);
         font-weight: bold;
